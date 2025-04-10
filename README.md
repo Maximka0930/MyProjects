@@ -33,18 +33,17 @@
   <p><em>Демонстрация работы программы</em></p>
 </div>
 
-#Графическое решение задачи линейного программирования
+# Графическое решение задачи линейного программирования
 <h4>Далее были проекты посвящённые линейному программированию. Суть задачи состояла в том, чтобы написать программу графически решающую ЗЛП без использования дополнительных библиотек для формирования осей координат и графиков.</h4>
 <h5>Из особенностей программы можно выделить, что ограничений можно добавлять сколько угодно, а также менять масштаб осей координат.</h5>
 <h5>Этот проект был написан на C# с использованием WPF</h5>
 
-<div align="center" style="display: flex; flex-direction: row;">
-	<div align="center">
-  		<img src="GifsAndImages/GLP_1.png" width="45%">
-    		<p style="margin-top: 8px;"><em>Поиск F(max)</em></p>
-	</div>
-	<div align="center">
-  		<img src="GifsAndImages/GLP_2.png" width="45%">
-    		<p style="margin-top: 8px;"><em>Поиск F(max)</em></p>
-	</div>
-</div>
+<p align="center">
+  <img src="GifsAndImages/GLP_1.png" width="45%">
+  <img src="GifsAndImages/GLP_2.png" width="45%">
+</p>
+<p align="center">
+  <p>Поиск F(max) </p>
+  <pПоиск F(min)  </p>
+</p>
+
