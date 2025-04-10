@@ -38,12 +38,9 @@
 <h5>Из особенностей программы можно выделить, что ограничений можно добавлять сколько угодно, а также менять масштаб осей координат.</h5>
 <h5>Этот проект был написан на C# с использованием WPF</h5>
 
-
-<div>
-<p align="center">
+<div align="center">
   <img src="GifsAndImages/GLP_1.png" width="45%">
     <p style="margin-top: 8px;"><em>Поиск F(max)</em></p>
   <img src="GifsAndImages/GLP_2.png" width="45%">
     <p style="margin-top: 8px;"><em>Поиск F(min)</em></p>
-</p>
 </div>
