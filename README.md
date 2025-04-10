@@ -7,7 +7,8 @@
 <h4>1. Ищет кратчайший путь от заданной вершины до всех остальных вершин графа с помощью алгоритма Дейкстры и Флойда.</h4>
 <h4>2. Помогает Оле добраться до выбранных городов и вернуться в изначальный самым кратчайшим путём.</h4>
 <h4>Написан проект также на C++/CLI на Windows Forms</h4>
+
 <p align="center">
-  <img src="GifsAndImages/ThirdProgram_1.png" width="45%">
-  <img src="GifsAndImages/ThirdProgram_2.png" width="45%">
+  <img src="GifsAndImages/ThirdProgram_1.png" width="45%" title="Задание 1">
+  <img src="GifsAndImages/ThirdProgram_2.png" width="45%" title="Задание 2">
 </p>
