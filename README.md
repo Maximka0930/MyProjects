@@ -42,11 +42,14 @@
 <div>
 <p align="center">
   <img src="GifsAndImages/GLP_1.png" width="45%">
+    <p style="margin-top: 8px;"><em>Поиск F(max)</em></p>
   <img src="GifsAndImages/GLP_2.png" width="45%">
+    <p style="margin-top: 8px;"><em>Поиск F(min)</em></p>
 </p>
 <p align="center">
   <img src="GifsAndImages/GLP_3.png" width="45%">
+    <p style="margin-top: 8px;"><em>Поиск F(max) = ∞ </em></p>
   <img src="GifsAndImages/GLP_4.png" width="45%">
+    <p style="margin-top: 8px;"><em>Поиск F(min) = 0 </em></p>
 </p>
-
 </div>
