@@ -1,0 +1,22 @@
+﻿  DefaultLamppost.cpp
+C:\Users\nikol\source\repos\PW_OOP\PW_OOP\Environment.h(105,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "DefaultLamppost.cpp")
+  
+  Environment.cpp
+C:\Users\nikol\source\repos\PW_OOP\PW_OOP\Environment.h(105,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Environment.cpp")
+  
+  Human.cpp
+  MainForm.cpp
+C:\Users\nikol\source\repos\PW_OOP\PW_OOP\Environment.h(105,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MainForm.cpp")
+  
+  PaintImage.cpp
+  Transport.cpp
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\nikol\source\repos\PW_OOP\PW_OOP\Environment.h(235,1): warning C4715: MyEnvironment::RotateImage: значение возвращается не при всех путях выполнения
+C:\Users\nikol\source\repos\PW_OOP\PW_OOP\Environment.h(235,1): warning C4715: MyEnvironment::RotateImage: значение возвращается не при всех путях выполнения
+C:\Users\nikol\source\repos\PW_OOP\PW_OOP\Environment.h(235,1): warning C4715: MyEnvironment::RotateImage: значение возвращается не при всех путях выполнения
+  DefaultLamppost.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  PW_OOP.vcxproj -> C:\Users\nikol\source\repos\PW_OOP\x64\Debug\PW_OOP.exe
