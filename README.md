@@ -24,6 +24,6 @@
 <h4>Написан проект также на C++/CLI на Windows Forms</h4>
 
 <div align="center">
-  <img src="GifsAndImages/FifthProgram.gif" width="600"/>
+  <img src="GifsAndImages/FifthProgram.gif" width="700"/>
   <p><em>Демонстрация работы программы</em></p>
 </div>
