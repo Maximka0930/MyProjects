@@ -39,27 +39,14 @@
 <h5>Этот проект был написан на C# с использованием WPF</h5>
 
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
-
-  <div style="text-align: center;">
-    <img src="GifsAndImages/GLP_1.png" style="width: 45%; border-radius: 8px; border: 1px solid #eee;">
-    <p style="margin-top: 8px;"><em>Поиск F(max)</em></p>
-  </div>
-  
-  <div style="text-align: center;">
-    <img src="GifsAndImages/GLP_2.png" style="width: 45%; border-radius: 8px; border: 1px solid #eee;">
-    <p style="margin-top: 8px;"><em>Поиск F(min)</em></p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="GifsAndImages/GLP_3.png" style="width: 45%; border-radius: 8px; border: 1px solid #eee;">
-    <p style="margin-top: 8px;"><em>Поиск F(max) = ∞ </em></p>
-  </div>
-  
-  <div style="text-align: center;">
-    <img src="GifsAndImages/GLP_4.png" style="width: 45%; border-radius: 8px; border: 1px solid #eee;">
-    <p style="margin-top: 8px;"><em>Поиск F(min) = 0 </em></p>
-  </div>
+<div>
+<p align="center">
+  <img src="GifsAndImages/GLP_1.png" width="45%">
+  <img src="GifsAndImages/GLP_2.png" width="45%">
+</p>
+<p align="center">
+  <img src="GifsAndImages/GLP_3.png" width="45%">
+  <img src="GifsAndImages/GLP_4.png" width="45%">
+</p>
 
 </div>
-
