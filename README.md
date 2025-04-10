@@ -12,3 +12,24 @@
   <img src="GifsAndImages/ThirdProgram_1.png" width="45%" title = "Задача №1">
   <img src="GifsAndImages/ThirdProgram_2.png" width="45%" title = "Задача №2">
 </p>
+
+# Разработка алгоритмов формирования и обработки двоичных деревьев поиска, авл-деревьев и B-деревьев
+<div style="display: flex; overflow-x: auto; padding: 10px 0; gap: 15px; -webkit-overflow-scrolling: touch;">
+  <!-- Первое изображение -->
+  <div style="flex: 0 0 auto; text-align: center;">
+    <img src="GifsAndImages/ThirdProgram_1.png" style="max-height: 300px; border: 1px solid #ddd; border-radius: 4px;">
+    <p style="margin-top: 5px;"><small>Описание 1</small></p>
+  </div>
+  
+  <!-- Второе изображение -->
+  <div style="flex: 0 0 auto; text-align: center;">
+    <img src="GifsAndImages/ThirdProgram_2.png" style="max-height: 300px; border: 1px solid #ddd; border-radius: 4px;">
+    <p style="margin-top: 5px;"><small>Описание 2</small></p>
+  </div>
+  
+  <!-- Третье изображение -->
+  <div style="flex: 0 0 auto; text-align: center;">
+    <img src="GifsAndImages/ThirdProgram_1.png" style="max-height: 300px; border: 1px solid #ddd; border-radius: 4px;">
+    <p style="margin-top: 5px;"><small>Описание 3</small></p>
+  </div>
+</div>
