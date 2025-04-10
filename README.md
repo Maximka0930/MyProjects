@@ -14,22 +14,16 @@
 </p>
 
 # Разработка алгоритмов формирования и обработки двоичных деревьев поиска, авл-деревьев и B-деревьев
-<div style="display: flex; overflow-x: auto; padding: 10px 0; gap: 15px; -webkit-overflow-scrolling: touch;">
-  <!-- Первое изображение -->
-  <div style="flex: 0 0 auto; text-align: center;">
-    <img src="GifsAndImages/ThirdProgram_1.png" style="max-height: 300px; border: 1px solid #ddd; border-radius: 4px;">
-    <p style="margin-top: 5px;"><small>Описание 1</small></p>
-  </div>
-  
-  <!-- Второе изображение -->
-  <div style="flex: 0 0 auto; text-align: center;">
-    <img src="GifsAndImages/ThirdProgram_2.png" style="max-height: 300px; border: 1px solid #ddd; border-radius: 4px;">
-    <p style="margin-top: 5px;"><small>Описание 2</small></p>
-  </div>
-  
-  <!-- Третье изображение -->
-  <div style="flex: 0 0 auto; text-align: center;">
-    <img src="GifsAndImages/ThirdProgram_1.png" style="max-height: 300px; border: 1px solid #ddd; border-radius: 4px;">
-    <p style="margin-top: 5px;"><small>Описание 3</small></p>
-  </div>
+<h4>Следующая программа решает много задач. Из основных - это:</h4>
+<h4>●Построение простого бинарного дерева●</h4>
+<h4>●Построение строгого бинарного дерева●</h4>
+<h4>●Построение идеально сбалансированного дерева из положительных элементов●</h4>
+<h4>●Построение идеально сбалансированного дерева из отрицательных элементов●</h4>
+<h4>●Построение B+ дерева●</h4>
+<h4>●Построение Красно-чёрного дерева●</h4>
+<h4>Написан проект также на C++/CLI на Windows Forms</h4>
+
+<div align="center">
+  <img src="GifsAndImages/FifthProgram.gif" width="600"/>
+  <p><em>Демонстрация работы программы</em></p>
 </div>
