@@ -1,0 +1,4 @@
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\x64\Debug\FifthLab_ThirdCourse.vcxproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\x64\Debug\FifthLabThirdCourse.MyForm.resources
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\x64\Debug\FifthLab_ThirdCourse.vcxproj.GenerateResource.cache
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\x64\Debug\FifthLab_ThirdCourse.exe

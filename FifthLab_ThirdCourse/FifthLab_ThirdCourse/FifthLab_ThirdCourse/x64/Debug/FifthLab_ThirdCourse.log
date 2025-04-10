@@ -1,0 +1,8 @@
+﻿  BinaryTree.cpp
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\BinaryTree.cpp(407,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\BinaryTree.cpp(528,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\BinaryTree.cpp(529,79): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  BinaryTree.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FifthLab_ThirdCourse.vcxproj -> C:\Users\nikol\source\repos\FifthLab_ThirdCourse\x64\Debug\FifthLab_ThirdCourse.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

@@ -1,0 +1,45 @@
+﻿  BinaryTree.cpp
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\BinaryTree.cpp(407,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\BinaryTree.cpp(528,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\BinaryTree.cpp(529,79): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  MyForm.cpp
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\MyForm.h(394,129): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\MyForm.h(394,124): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\MyForm.h(406,132): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\MyForm.h(406,125): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\MyForm.h(411,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\MyForm.h(412,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\MyForm.h(428,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\MyForm.h(430,105): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\MyForm.h(430,98): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\MyForm.h(434,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\MyForm.h(462,132): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\nikol\source\repos\FifthLab_ThirdCourse\FifthLab_ThirdCourse\MyForm.h(462,125): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Создание кода...
+  BinaryTree.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FifthLab_ThirdCourse.vcxproj -> C:\Users\nikol\source\repos\FifthLab_ThirdCourse\x64\Debug\FifthLab_ThirdCourse.exe
