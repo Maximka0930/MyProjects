@@ -8,7 +8,8 @@
 </div>
 
 # Разработка и исследование алгоритмов на деревьях на основе динамических структур данных
-<h4>Следующая программа решает следующие задачи: </h4>
+<h4>Следующие интересные проекты, которые я реализовывал это - программы, посвящённые графам и деревьям.</h4>
+<h4>Представленная ниже программа решает следующие задачи: </h4>
 <h4>1. Ищет кратчайший путь от заданной вершины до всех остальных вершин графа с помощью алгоритма Дейкстры и Флойда.</h4>
 <h4>2. Помогает Оле добраться до выбранных городов и вернуться в изначальный самым кратчайшим путём.</h4>
 <h5>Написан проект также на C++/CLI на Windows Forms</h5>
@@ -31,3 +32,33 @@
   <img src="GifsAndImages/FifthProgram.gif" width="80%"/>
   <p><em>Демонстрация работы программы</em></p>
 </div>
+
+#Графическое решение задачи линейного программирования
+<h4>Далее были проекты посвящённые линейному программированию. Суть задачи состояла в том, чтобы написать программу графически решающую ЗЛП без использования дополнительных библиотек для формирования осей координат и графиков.</h4>
+<h5>Из особенностей программы можно выделить, что ограничений можно добавлять сколько угодно, а также менять масштаб осей координат.</h5>
+<h5>Этот проект был написан на C# с использованием WPF</h5>
+
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
+
+  <div style="text-align: center;">
+    <img src="GifsAndImages/GLP_1.png" style="max-width: 100%; border-radius: 8px; border: 1px solid #eee;">
+    <p style="margin-top: 8px;"><em>Поиск F(max)</em></p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="GifsAndImages/GLP_2.png" style="max-width: 100%; border-radius: 8px; border: 1px solid #eee;">
+    <p style="margin-top: 8px;"><em>Поиск F(min)</em></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="GifsAndImages/GLP_3.png" style="max-width: 100%; border-radius: 8px; border: 1px solid #eee;">
+    <p style="margin-top: 8px;"><em>Поиск F(max) = ∞ </em></p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="GifsAndImages/GLP_4.png" style="max-width: 100%; border-radius: 8px; border: 1px solid #eee;">
+    <p style="margin-top: 8px;"><em>Поиск F(min) = 0 </em></p>
+  </div>
+
+</div>
+
