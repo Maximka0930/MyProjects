@@ -39,8 +39,12 @@
 <h5>Этот проект был написан на C# с использованием WPF</h5>
 
 <div align="center" style="display: flex; flex-direction: row;">
-  <img src="GifsAndImages/GLP_1.png" width="45%">
-    <p style="margin-top: 8px;"><em>Поиск F(max)</em></p>
-  <img src="GifsAndImages/GLP_2.png" width="45%">
-    <p style="margin-top: 8px;"><em>Поиск F(min)</em></p>
+	<div align="center">
+  		<img src="GifsAndImages/GLP_1.png" width="45%">
+    		<p style="margin-top: 8px;"><em>Поиск F(max)</em></p>
+	</div>
+	<div align="center">
+  		<img src="GifsAndImages/GLP_2.png" width="45%">
+    		<p style="margin-top: 8px;"><em>Поиск F(max)</em></p>
+	</div>
 </div>
