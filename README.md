@@ -40,27 +40,10 @@
 
 
 <div>
-  <!-- Первая строка -->
-  <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-    <div style="text-align: center; width: 45%;">
-      <img src="GifsAndImages/GLP_1.png">
-      <p style="margin-top: 8px;"><em>Поиск F(max)</em></p>
-    </div>
-    <div style="text-align: center; width: 45%;">
-      <img src="GifsAndImages/GLP_2.png">
-      <p style="margin-top: 8px;"><em>Поиск F(min)</em></p>
-    </div>
-  </div>
-
-  <!-- Вторая строка -->
-  <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <div style="text-align: center; width: 45%;">
-      <img src="GifsAndImages/GLP_3.png" >
-      <p style="margin-top: 8px;"><em>Поиск F(max) = ∞</em></p>
-    </div>
-    <div style="text-align: center; width: 45%;">
-      <img src="GifsAndImages/GLP_4.png">
-      <p style="margin-top: 8px;"><em>Поиск F(min) = 0</em></p>
-    </div>
-  </div>
+<p align="center">
+  <img src="GifsAndImages/GLP_1.png" width="45%">
+    <p style="margin-top: 8px;"><em>Поиск F(max)</em></p>
+  <img src="GifsAndImages/GLP_2.png" width="45%">
+    <p style="margin-top: 8px;"><em>Поиск F(min)</em></p>
+</p>
 </div>
