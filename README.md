@@ -41,9 +41,7 @@
 <p align="center">
   <img src="GifsAndImages/GLP_1.png" width="45%">
   <img src="GifsAndImages/GLP_2.png" width="45%">
-</p>
-<p align="center">
-  <p>Поиск F(max) </p>
-  <pПоиск F(min)  </p>
+  <img src="GifsAndImages/GLP_3.png" width="45%">
+  <img src="GifsAndImages/GLP_4.png" width="45%">
 </p>
 
