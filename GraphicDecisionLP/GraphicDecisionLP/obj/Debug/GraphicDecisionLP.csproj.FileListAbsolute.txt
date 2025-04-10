@@ -1,0 +1,15 @@
+C:\Users\nikol\source\repos\GraphicDecisionLP\GraphicDecisionLP\bin\Debug\GraphicDecisionLP.exe.config
+C:\Users\nikol\source\repos\GraphicDecisionLP\GraphicDecisionLP\bin\Debug\GraphicDecisionLP.exe
+C:\Users\nikol\source\repos\GraphicDecisionLP\GraphicDecisionLP\bin\Debug\GraphicDecisionLP.pdb
+C:\Users\nikol\source\repos\GraphicDecisionLP\GraphicDecisionLP\obj\Debug\GraphicDecisionLP.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\GraphicDecisionLP\GraphicDecisionLP\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\source\repos\GraphicDecisionLP\GraphicDecisionLP\obj\Debug\App.g.cs
+C:\Users\nikol\source\repos\GraphicDecisionLP\GraphicDecisionLP\obj\Debug\GraphicDecisionLP_MarkupCompile.cache
+C:\Users\nikol\source\repos\GraphicDecisionLP\GraphicDecisionLP\obj\Debug\GraphicDecisionLP_MarkupCompile.lref
+C:\Users\nikol\source\repos\GraphicDecisionLP\GraphicDecisionLP\obj\Debug\MainWindow.baml
+C:\Users\nikol\source\repos\GraphicDecisionLP\GraphicDecisionLP\obj\Debug\GraphicDecisionLP.g.resources
+C:\Users\nikol\source\repos\GraphicDecisionLP\GraphicDecisionLP\obj\Debug\GraphicDecisionLP.Properties.Resources.resources
+C:\Users\nikol\source\repos\GraphicDecisionLP\GraphicDecisionLP\obj\Debug\GraphicDecisionLP.csproj.GenerateResource.cache
+C:\Users\nikol\source\repos\GraphicDecisionLP\GraphicDecisionLP\obj\Debug\GraphicDecisionLP.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\GraphicDecisionLP\GraphicDecisionLP\obj\Debug\GraphicDecisionLP.exe
+C:\Users\nikol\source\repos\GraphicDecisionLP\GraphicDecisionLP\obj\Debug\GraphicDecisionLP.pdb
