@@ -10,5 +10,5 @@
 
 <p align="center">
   <img src="GifsAndImages/ThirdProgram_1.png" width="45%" title = "Задача №1">
-  <img src="GifsAndImages/ThirdProgram_2.png" width="45%" title = "Задача "2">
+  <img src="GifsAndImages/ThirdProgram_2.png" width="45%" title = "Задача №2">
 </p>
