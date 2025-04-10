@@ -1,0 +1,27 @@
+﻿  DecisionFirstTask.cpp
+  DecisionSecondTask.cpp
+  Graph.cpp
+C:\Users\nikol\source\repos\FourthLab_ThirdCourse\FourthLab_ThirdCourse\Graph.cpp(32,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikol\source\repos\FourthLab_ThirdCourse\FourthLab_ThirdCourse\Graph.cpp(31,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikol\source\repos\FourthLab_ThirdCourse\FourthLab_ThirdCourse\Graph.cpp(41,92): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nikol\source\repos\FourthLab_ThirdCourse\FourthLab_ThirdCourse\Graph.cpp(41,73): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  GraphVisualizer.cpp
+C:\Users\nikol\source\repos\FourthLab_ThirdCourse\FourthLab_ThirdCourse\GraphVisualizer.cpp(50,78): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nikol\source\repos\FourthLab_ThirdCourse\FourthLab_ThirdCourse\GraphVisualizer.cpp(58,92): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  MyForm.cpp
+C:\Users\nikol\source\repos\FourthLab_ThirdCourse\FourthLab_ThirdCourse\MyForm.h(555,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\nikol\source\repos\FourthLab_ThirdCourse\FourthLab_ThirdCourse\MyForm.h(555,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\nikol\source\repos\FourthLab_ThirdCourse\FourthLab_ThirdCourse\MyForm.h(574,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\nikol\source\repos\FourthLab_ThirdCourse\FourthLab_ThirdCourse\MyForm.h(574,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Создание кода...
+  DecisionFirstTask.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FourthLab_ThirdCourse.vcxproj -> C:\Users\nikol\source\repos\FourthLab_ThirdCourse\x64\Debug\FourthLab_ThirdCourse.exe
