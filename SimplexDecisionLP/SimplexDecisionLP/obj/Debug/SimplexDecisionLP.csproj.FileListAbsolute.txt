@@ -1,0 +1,15 @@
+C:\Users\nikol\source\repos\SimplexDecisionLP\SimplexDecisionLP\bin\Debug\SimplexDecisionLP.exe.config
+C:\Users\nikol\source\repos\SimplexDecisionLP\SimplexDecisionLP\bin\Debug\SimplexDecisionLP.exe
+C:\Users\nikol\source\repos\SimplexDecisionLP\SimplexDecisionLP\bin\Debug\SimplexDecisionLP.pdb
+C:\Users\nikol\source\repos\SimplexDecisionLP\SimplexDecisionLP\obj\Debug\SimplexDecisionLP.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\SimplexDecisionLP\SimplexDecisionLP\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\source\repos\SimplexDecisionLP\SimplexDecisionLP\obj\Debug\App.g.cs
+C:\Users\nikol\source\repos\SimplexDecisionLP\SimplexDecisionLP\obj\Debug\SimplexDecisionLP_MarkupCompile.cache
+C:\Users\nikol\source\repos\SimplexDecisionLP\SimplexDecisionLP\obj\Debug\SimplexDecisionLP_MarkupCompile.lref
+C:\Users\nikol\source\repos\SimplexDecisionLP\SimplexDecisionLP\obj\Debug\MainWindow.baml
+C:\Users\nikol\source\repos\SimplexDecisionLP\SimplexDecisionLP\obj\Debug\SimplexDecisionLP.g.resources
+C:\Users\nikol\source\repos\SimplexDecisionLP\SimplexDecisionLP\obj\Debug\SimplexDecisionLP.Properties.Resources.resources
+C:\Users\nikol\source\repos\SimplexDecisionLP\SimplexDecisionLP\obj\Debug\SimplexDecisionLP.csproj.GenerateResource.cache
+C:\Users\nikol\source\repos\SimplexDecisionLP\SimplexDecisionLP\obj\Debug\SimplexDecisionLP.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\SimplexDecisionLP\SimplexDecisionLP\obj\Debug\SimplexDecisionLP.exe
+C:\Users\nikol\source\repos\SimplexDecisionLP\SimplexDecisionLP\obj\Debug\SimplexDecisionLP.pdb

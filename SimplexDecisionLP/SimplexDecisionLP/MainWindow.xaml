@@ -1,0 +1,84 @@
+﻿<Window x:Class="SimplexDecisionLP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimplexDecisionLP"
+        mc:Ignorable="d"
+        Title="Решение задачи линейного программирования симплекс-методом" Height="720" Width="1320" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Margin="8">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0" >
+                <StackPanel Orientation="Horizontal">
+                    <StackPanel Orientation="Horizontal" Margin="4,0,0,0" >
+                        <TextBlock VerticalAlignment="Center"  FontSize="24" Text="Количество переменных:" FontWeight="DemiBold" ></TextBlock>
+                        <TextBox x:Name="CountOfVariables" FontSize="32" Width="48" Height="48" Margin="8,0,0,0" FontWeight="DemiBold" TextChanged="CountOfVariables_TextChanged"></TextBox>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="8,0,0,0">
+                        <TextBlock VerticalAlignment="Center"  FontSize="24" Text="Количество ограничений:" FontWeight="DemiBold"></TextBlock>
+                        <TextBox x:Name="CountOfRestrictions" FontSize="32" Width="48" Height="48" Margin="8,0,0,0" FontWeight="DemiBold" TextChanged="CountOfRestrictions_TextChanged"></TextBox>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,0,16,0">
+                    <Button Width="56" Height="56" Background="GhostWhite" FontSize="32" Margin="8,0,8,0" Click="FirstTask_Click">1</Button>
+                    <Button Width="56" Height="56" Background="GhostWhite" FontSize="32" Margin="8,0,8,0" Click="SecondTask_Click">2</Button>
+                    <Button Width="56" Height="56" Background="GhostWhite" FontSize="32" Margin="8,0,8,0" Click="ThirdTask_Click">а)</Button>
+                    <Button Width="56" Height="56" Background="GhostWhite" FontSize="32" Margin="8,0,8,0" Click="FourthTask_Click">б)</Button>
+                    <Button Width="56" Height="56" Background="GhostWhite" FontSize="32" Margin="8,0,8,0" Click="FifthTask_Click">в)</Button>
+                    <Button Width="56" Height="56" Background="GhostWhite" FontSize="32" Margin="8,0,8,0" Click="SixthTask_Click">г)</Button>
+                </StackPanel>    
+            </Grid>
+            <Grid Grid.Row="1">
+                <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Hidden">
+                    <StackPanel x:Name="TargetFunction" VerticalAlignment="Center" HorizontalAlignment="Center"></StackPanel>
+                </ScrollViewer>
+            </Grid>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="14*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="2*"></RowDefinition>
+
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                    <StackPanel x:Name="MainField" HorizontalAlignment="Center" Orientation="Vertical">
+                        
+                    </StackPanel>
+                </ScrollViewer>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" >
+                    <Button Width="128" Height="28" Background="GhostWhite" FontSize="20" Click="btn_Decision_Click" >Решить</Button>
+
+                </StackPanel>
+            </Grid>
+            
+            <Grid Grid.Row="2">
+                <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Hidden">
+                    <StackPanel x:Name="Result" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        
+                    </StackPanel>
+                </ScrollViewer>
+            </Grid>
+            
+            
+            
+        </Grid>
+        
+    </Grid>
+</Window>
