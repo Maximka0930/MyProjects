@@ -8,7 +8,13 @@
 <h4>2. Помогает Оле добраться до выбранных городов и вернуться в изначальный самым кратчайшим путём.</h4>
 <h4>Написан проект также на C++/CLI на Windows Forms</h4>
 
-<p align="center">
-  <img src="GifsAndImages/ThirdProgram_1.png" width="45%" title="Задание 1">
-  <img src="GifsAndImages/ThirdProgram_2.png" width="45%" title="Задание 2">
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="GifsAndImages/ThirdProgram_1.png" width="90%">
+    <p><small>Рис. 1: Главный интерфейс программы</small></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="GifsAndImages/ThirdProgram_2.png" width="90%">
+    <p><small>Рис. 2: Окно настроек</small></p>
+  </div>
+</div>
